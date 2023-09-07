@@ -203,7 +203,7 @@ h1.badge.velocity:after {
 	min-height: 100%;
 }
 .horizontal .spacer {
-	background-image: url("../img/example_bg_spacer_h.gif");
+	/*background-image: url("../img/example_bg_spacer_h.gif"); */
 	margin-bottom: 0;
 	min-height: initial;
 	min-width: 100px;

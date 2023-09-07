@@ -113,7 +113,7 @@ section.demo {
 	font-size: 0;
 	text-align: center;
 	background-image: url("../img/example_bg_v.png");
-	opacity: 0;
+	
 }
 section.demo.fullheight {
 	min-height: 100%;
@@ -125,7 +125,7 @@ section.demo.doublewidth, .spacer.doublewidth {
 	text-align: inherit;
 	white-space: nowrap;
 	background-image: url("../img/example_bg_h.png");
-	opacity: 0;
+	
 }
 .horizontal section.demo.fullwidth {
 	min-width: 100%;

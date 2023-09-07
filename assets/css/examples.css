@@ -125,6 +125,7 @@ section.demo.doublewidth, .spacer.doublewidth {
 	text-align: inherit;
 	white-space: nowrap;
 	background-image: url("../img/example_bg_h.png");
+	opacity: 0%;
 	
 }
 .horizontal section.demo.fullwidth {

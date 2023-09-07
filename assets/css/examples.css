@@ -214,6 +214,7 @@ h1.badge.velocity:after {
 }
 .horizontal .spacer.s0 {
 	min-width: 1px;
+	opacity: 0%;
 }
 .horizontal .spacer.s1 {
 	min-width: 100px;
@@ -257,6 +258,7 @@ h1.badge.velocity:after {
 	text-align: center;
 	vertical-align: middle;
 	padding: 0 5px;
+	opacity: 0%;
 }
 .box1 {
 	min-width: 100px;

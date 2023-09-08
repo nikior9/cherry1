@@ -187,13 +187,13 @@ section.demo * {
 }
 section.demo {
 	font-size: 0;
-	text-align: center;
+	text-align: left;
 	/* background-image: url("../img/example_bg_v.png");
 	opacity: 26%;*/
 	
 }
 section.demo.fullheight {
-	min-height: 100%;
+	min-height: 600%;
 }
 section.demo.doublewidth, .spacer.doublewidth {
 	min-width: 200%;

@@ -339,7 +339,7 @@ h1.badge.velocity:after {
 }
 .box1 {
 	min-width: 100px;
-	height: 100px;
+	height: 0px;
 	margin: 0 auto 0 auto;
 }
 .box2 {
